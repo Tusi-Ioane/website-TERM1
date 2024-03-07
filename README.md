@@ -1,5 +1,6 @@
 # website-TERM1
 news platform
+
 purpose: informing people of insteresting news, big and small. Anyone can make their own news article
 
 inspo:
